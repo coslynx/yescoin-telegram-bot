@@ -1,0 +1,9 @@
+fastapi==0.96.0
+uvicorn==0.22.0
+python-telegram-bot==13.10
+bcrypt==4.0.1
+psycopg2-binary==2.9.6
+SQLAlchemy==2.0.18
+redis==4.6.0
+loguru==0.7.0
+```
